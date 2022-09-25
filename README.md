@@ -1,0 +1,4 @@
+- 👋 @aplab2020 is the GitHub for the Automated Planning Lab at Heriot-Watt University
+- 👀 I’m interested in Automated Planning and all its applications
+- 💞️ I’m looking to collaborate on Robotics projects
+- 📫 How to reach us: ed50@hw.ac.uk
